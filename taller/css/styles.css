@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: white;
+}
+
+.color1{
+    color: white;
+}
+
+.titulo{
+    background-color: black;
+    padding: 50px;
+    text-align: center
+}
+
+.N{
+    justify-content: right;
+    align-items: center;
+}
+
+.texto{
+    width: 100%;
+}
